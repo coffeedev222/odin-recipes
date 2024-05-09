@@ -1,0 +1,11 @@
+#page_title {
+    color: darkblue;
+    text-align: center;
+}
+
+.receipe_links {
+    font-weight: 300px ;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkorange;
+    text-align: center;
+}
