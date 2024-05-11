@@ -1,11 +1,34 @@
 #page_title {
-    color: darkblue;
+    color: #D67929;
     text-align: center;
+    margin: 40px;
+    font-weight: bold;
+}
+html{
+    background-color: #2986D6;
+}
+.receipes {
+    display: inline-block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    width: 33%;
 }
 
-.receipe_links {
-    font-weight: 300px ;
-    font-family: 'Courier New', Courier, monospace;
-    color: darkorange;
+.images {
+    margin: 20px;
+}
+
+ .images img {
+    height: 300px;
+    width: 300px;
+}
+
+.links {
     text-align: center;
+    margin: 10px;
+}
+
+.links a {
+    color: #D67929;
+    font-weight: bold;
 }
